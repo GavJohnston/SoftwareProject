@@ -1,0 +1,6 @@
+References
+Devcenter.heroku.com. (2018). Direct to S3 Image Uploads in Rails | Heroku Dev Center. [online] Available at: https://devcenter.heroku.com/articles/direct-to-s3-image-uploads-in-rails [Accessed 13 May 2018].
+
+Stack Overflow. (2018). How to get the latest file in a folder using python. [online] Available at: https://stackoverflow.com/questions/39327032/how-to-get-the-latest-file-in-a-folder-using-python [Accessed 13 May 2018].
+
+YouTube. (2018). OpenCV Python TUTORIAL #4 for Face Recognition and Identification. [online] Available at: https://www.youtube.com/watch?v=PmZ29Vta7Vc&t=2811s [Accessed 13 May 2018].
